@@ -32,6 +32,7 @@ public class Test001 {
 
 	// 连接地址
 	private static final String ADDRES = "127.0.0.1:2181";
+
 	// 连接地址
 	private static final int SESSIN_TIME_OUT = 2000;
 	private static final CountDownLatch countDownLatch = new CountDownLatch(1);
